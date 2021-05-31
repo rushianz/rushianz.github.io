@@ -1,3 +1,3 @@
-function prueba(){
+function pruebbaaaa(){
 alert("hola mundo");
 }
